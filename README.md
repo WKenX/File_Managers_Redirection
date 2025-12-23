@@ -50,7 +50,7 @@ v1.0.3(2023-11-17): Fixed redirection Control Panel.
 
 v1.0(2023-09-24): Created.
 ```
-
+##
 # 文件管理器重定向 (AutoHotkey v2)
 
 ⭐ 核心功能
