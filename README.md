@@ -30,13 +30,13 @@ v1.0.14(2025-12-16): Ensure the item is selected in both XY and DOpus.
 
 v1.0.13(2025-08-25): Some improvements.
 
-v1.0.12(2025-02-19): FP<->Opus and menu, shortcut key changes, etc.
+v1.0.12(2025-02-19): FP<->DOpus and menu, shortcut key changes, etc.
 
-v1.0.11(2025-02-04): XY<->Opus
+v1.0.11(2025-02-04): XY<->DOpus
 
 v1.0.10(2025-02-03): Adjust the code to hide Explorer window.
 
-v1.0.9(2025-02-01): Supports desktop. Redirect to Explorer supports multiple selections and reuse of windows. redirects Opus to Explorer. hotkey switching adds tooltips.
+v1.0.9(2025-02-01): Supports desktop. Redirect to Explorer supports multiple selections and reuse of windows. redirects DOpus to Explorer. hotkey switching adds tooltips.
 
 v1.0.8(2024-07-19): Fixed flickering when redirecting control panel.
 
@@ -71,38 +71,27 @@ v1.0(2023-09-24): Created.
 
 变更日志：
 ```
-v1.0.19
-XY、DOpus：修复Open_Dir_First条件逻辑
+v1.0.19(2025-12-26): XY、DOpus：修复Open_Dir_First条件逻辑
 
-v1.0.18
-一些改进，和一项新调整：Open_Dir_First
+v1.0.18(2025-12-23): 一些改进，和一项新调整：Open_Dir_First
 
-v1.0.17
-一些改进
+v1.0.17(2025-12-20): 一些改进
 
-v1.0.16
-确保选中项目同时降低等待时间（移除A_AhkPath）
+v1.0.16(2025-12-18): 确保选中项目同时降低等待时间（移除A_AhkPath）
 
-v1.0.15
-确保选中项目同时降低等待时间（注意：若编译为EXE文件且未安装AutoHotkey，需将A_AhkPath设置为AutoHotkey64.exe的路径。）
+v1.0.15(2025-12-17): 确保选中项目同时降低等待时间（注意：若编译为EXE文件且未安装AutoHotkey，需将A_AhkPath设置为AutoHotkey64.exe的路径。）
 
-v1.0.14
-确保XY和Opus选中项目
+v1.0.14(2025-12-16): 确保XY和DOpus选中项目
 
-v1.0.13
-一些改进
+v1.0.13(2025-08-25): 一些改进
 
-v1.0.12
-FP<->Opus和菜单、快捷键修改等
+v1.0.12(2025-02-19): FP<->DOpus和菜单、快捷键修改等
 
-v1.0.11
-XY<->Opus
+v1.0.11(2025-02-04): XY<->DOpus
 
-v1.0.10
-调整隐藏Explorer窗口代码
+v1.0.10(2025-02-03): 调整隐藏Explorer窗口代码
 
-v1.0.9
-支持桌面，重定向到Explorer支持了多选与重用窗口，重定向Opus到Explorer，热键切换增加了工具提示
+v1.0.9(2025-02-01): 支持桌面，重定向到Explorer支持了多选与重用窗口，重定向DOpus到Explorer，热键切换增加了工具提示
 
 v1.0.8(2024-07-19): 修复了重定向控制面板时的闪烁
 
