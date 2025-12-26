@@ -16,6 +16,8 @@ Excluded list:
 
 Change Log:
 ```
+v1.0.19(2025-12-26): XY and DOpus: Fix Open_Dir_First conditional logic.
+
 v1.0.18(2025-12-23): Some improvements and a new tweak: Open_Dir_First.
 
 v1.0.17(2025-12-20): Some improvements.
@@ -69,6 +71,9 @@ v1.0(2023-09-24): Created.
 
 变更日志：
 ```
+v1.0.19
+XY、DOpus：修复Open_Dir_First条件逻辑
+
 v1.0.18
 一些改进，和一项新调整：Open_Dir_First
 
@@ -99,23 +104,17 @@ v1.0.10
 v1.0.9
 支持桌面，重定向到Explorer支持了多选与重用窗口，重定向Opus到Explorer，热键切换增加了工具提示
 
-v1.0.8
-修复了重定向控制面板时的闪烁
+v1.0.8(2024-07-19): 修复了重定向控制面板时的闪烁
 
-v1.0.7
-添加EVENT_OBJECT_SHOW事件，似乎可以使窗口几乎不可见
+v1.0.7(2024-07-01): 添加EVENT_OBJECT_SHOW事件，似乎可以使窗口几乎不可见
 
-v1.0.6
-重定向回收站、更正正则表达式
+v1.0.6(2024-04-28): 重定向回收站、更正正则表达式
 
-v1.0.5
-排除列表添加通配符支持
+v1.0.5(2023-11-26): 排除列表添加通配符支持
 
-v1.0.4
-添加排除列表，[excludeList_OnePerLine]下面填写的路径都不会重定向，CLSID列表查看https://www.autohotkey.com/docs/v2/misc/CLSID-List.htm
+v1.0.4(2023-11-26): 添加排除列表，[excludeList_OnePerLine]下面填写的路径都不会重定向，CLSID列表查看https://www.autohotkey.com/docs/v2/misc/CLSID-List.htm
 
-v1.0.3
-修复重定向控制面板
+v1.0.3(2023-11-17): 修复重定向控制面板
 
 v1.0(2023-09-24): 创建
 ```
