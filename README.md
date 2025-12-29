@@ -2,9 +2,10 @@
 
 ⭐ Core function
 
-- It lets you set your preferred file manager as the default.
-
-- The redirection process hides the Explorer window and is normally invisible. The ini file is a configuration file and can be modified according to needs.
+- Redirect Explorer to Your Preferred File Manager — and Switch Between File Managers Dynamically (XYplorer, Directory Opus, File Pilot).
+- Your chosen manager works like a "default" file manager.
+- The redirection process hides the Explorer window and is normally invisible.
+- The INI file is a configuration file and can be modified as needed.
 
 <img width="507" height="306" alt="image" src="https://github.com/user-attachments/assets/119754ff-004f-49cd-bfc6-d329f1aa4edd" />
 
@@ -59,9 +60,10 @@ v1.0(2023-09-24): Created.
 
 ⭐ 核心功能
 
-- 它可以让你将自己喜欢的文件管理器设置为默认文件管理器。
-
-- 重定向过程会隐藏资源管理器窗口，通常情况下是不可见的。ini 文件是一个配置文件，可以根据需要进行修改。
+- 将资源管理器重定向至你偏好的文件管理器——并可动态切换不同文件管理器（XYplorer、Directory Opus、File Pilot）。
+- 你所选的管理器就像一个“默认”文件管理器一样工作。
+- 重定向过程会隐藏资源管理器窗口，通常不可见。
+- INI 文件是一个配置文件，可根据需要进行修改。
 
 - <img width="462" height="303" alt="文件管理器重定向" src="https://github.com/user-attachments/assets/86818a87-9318-4bd9-a10c-88c84617661e" />
 
