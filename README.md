@@ -16,6 +16,8 @@ Excluded list:
 
 Change Log:
 ```
+v1.0.20(2025-12-29): Some improvements, and XY, DOpus: support for multiple paths.
+
 v1.0.19(2025-12-26): XY and DOpus: Fix Open_Dir_First conditional logic.
 
 v1.0.18(2025-12-23): Some improvements and a new tweak: Open_Dir_First.
@@ -71,6 +73,8 @@ v1.0(2023-09-24): Created.
 
 变更日志：
 ```
+v1.0.20(2025-12-29): 一些改进，和XY、DOpus：支持多个路径
+
 v1.0.19(2025-12-26): XY、DOpus：修复Open_Dir_First条件逻辑
 
 v1.0.18(2025-12-23): 一些改进，和一项新调整：Open_Dir_First
