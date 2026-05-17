@@ -17,6 +17,8 @@ Excluded list:
 
 Change Log:
 ```
+v1.0.22(2026-05-17): Improved window hiding: Used WinMove instead of WinSetTransparent and WinHide.
+
 v1.0.21(2026-05-17): Minor improvement.
 
 v1.0.20(2025-12-30): Some improvements, and XY, DOpus: support for multiple paths.
@@ -78,6 +80,8 @@ Chinese
 
 变更日志：
 ```
+v1.0.22(2026-05-17): 改进隐藏窗口：使用WinMove替代WinSetTransparent和WinHide
+
 v1.0.21(2026-05-17): 细微改进
 
 v1.0.20(2025-12-30): 一些改进，和XY、DOpus：支持多个路径
