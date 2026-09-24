@@ -17,6 +17,8 @@ Excluded list:
 
 Change Log:
 ```
+v1.0.23(2026-09-24): Some improvements.
+
 v1.0.22(2026-05-17): Improved window hiding: Used WinMove instead of WinSetTransparent and WinHide.
 
 v1.0.21(2026-05-17): Minor improvement.
@@ -80,6 +82,8 @@ Chinese
 
 变更日志：
 ```
+v1.0.23(2026-09-24): 一些改进
+
 v1.0.22(2026-05-17): 改进隐藏窗口：使用WinMove替代WinSetTransparent和WinHide
 
 v1.0.21(2026-05-17): 细微改进
