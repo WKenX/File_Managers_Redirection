@@ -7,7 +7,7 @@
 - The redirection process hides the Explorer window and is normally invisible.
 - The INI file is a configuration file and can be modified as needed.
 
-<img width="507" height="306" alt="image" src="https://github.com/user-attachments/assets/119754ff-004f-49cd-bfc6-d329f1aa4edd" />
+<img width="697" height="520" alt="FileManagersRedirection_TrayMenu_New" src="https://github.com/user-attachments/assets/f2ae878d-e755-4ec8-8c71-977690479d01" />
 
 Excluded list:
 
@@ -56,7 +56,7 @@ Excluded list:
 - 支持临时关闭自动重定向，同时保留手动转换功能。
 - INI 为配置文件，可根据需要调整设置。
 
-![文件管理器重定向](https://github.com/user-attachments/assets/86818a87-9318-4bd9-a10c-88c84617661e)
+<img width="350" height="267" alt="文件管理器重定向" src="https://github.com/user-attachments/assets/c3963d9f-f16b-4148-b6f4-0806faaec565" />
 
 ### 排除列表
 
