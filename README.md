@@ -30,7 +30,7 @@ Excluded list:
 - **v1.0.15 (2025-12-17):** Improved item selection and reduced waiting time. (Note: Compiled EXEs without AutoHotkey installed required A_AhkPath to be set to the path of AutoHotkey64.exe.)
 - **v1.0.14 (2025-12-16):** Improved item selection in XYplorer and DOpus.
 - **v1.0.13 (2025-08-25):** Various improvements.
-- **v1.0.12 (2025-02-19):** Added FP ↔ DOpus switching and updated menus and hotkeys.
+- **v1.0.12 (2025-02-19):** Added File Pilot ↔ DOpus switching and updated menus and hotkeys.
 - **v1.0.11 (2025-02-04):** Added XYplorer ↔ DOpus switching.
 - **v1.0.10 (2025-02-03):** Improved Explorer window hiding.
 - **v1.0.9 (2025-02-01):** Added desktop support, multiple selections and window reuse when redirecting to Explorer, DOpus-to-Explorer redirection, and hotkey tooltips.
@@ -83,7 +83,7 @@ CLSID 参考：[AutoHotkey CLSID List](https://www.autohotkey.com/docs/v2/misc/C
 - **v1.0.15 (2025-12-17)：** 提高项目选中的可靠性并缩短等待时间。（注意：编译为 EXE 且未安装 AutoHotkey 时，需要将 A_AhkPath 设置为 AutoHotkey64.exe 的路径。）
 - **v1.0.14 (2025-12-16)：** 改进 XYplorer 和 DOpus 的项目选中功能。
 - **v1.0.13 (2025-08-25)：** 多项改进。
-- **v1.0.12 (2025-02-19)：** 新增 FP 与 DOpus 之间的切换功能，并调整菜单和快捷键。
+- **v1.0.12 (2025-02-19)：** 新增 File Pilot 与 DOpus 之间的切换功能，并调整菜单和快捷键。
 - **v1.0.11 (2025-02-04)：** 新增 XYplorer 与 DOpus 之间的切换功能。
 - **v1.0.10 (2025-02-03)：** 改进 Explorer 窗口隐藏方式。
 - **v1.0.9 (2025-02-01)：** 新增桌面支持、重定向到 Explorer 时的多选及窗口复用功能、DOpus 到 Explorer 的重定向，以及快捷键切换提示。
